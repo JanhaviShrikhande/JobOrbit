@@ -1,0 +1,15 @@
+# Java backend
+server/target/
+*.class
+*.jar
+
+# React frontend
+client/node_modules/
+client/build/
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
